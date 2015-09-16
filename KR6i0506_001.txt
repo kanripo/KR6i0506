@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:12.946765
+#+DATE: 2015-08-30 20:21:13.650985
 #+TITLE: 佛說無上處經
 #+PROPERTY: CBETA_ID T17n0800
 #+PROPERTY: ID KR6i0506
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 800
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6i0506_T_000-0745a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0506_T_001-0745a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.800¶
-
- 《佛說無上處經》¶
+No. 800¶
+《佛說無上處經》¶
 ¶
-失譯人今，附東晉錄¶
+失譯今，附東晉錄¶
 
 如是我聞：
 
@@ -30,7 +29,7 @@ No.800¶
 佛告比丘：¶
 「三無上處者：一、佛無上處；二、法無上處；三、僧¶
 無上處。若諸眾生，兩足、四足、無足、多足，若色、¶
-無色，想、無想、非想非無想，如來於中說無¶
+無色，若想、無想、非想非無想，如來於中說無¶
 上處。
 
 「諸比丘！若有眾生，能於佛無上處起信¶
