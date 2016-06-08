@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:12.946765
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:47
 #+TITLE: 佛說無上處經
 #+PROPERTY: CBETA_ID T17n0800
 #+PROPERTY: ID KR6i0506
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 800
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0506_T_000-0745a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0506_T_001-0745a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.800¶
-
- 《佛說無上處經》¶
+No. 800¶
+《佛說無上處經》¶
 ¶
 失譯人今，附東晉錄¶
 
