@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:12.946765
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:47
 #+TITLE: 佛說無上處經
 #+PROPERTY: CBETA_ID T17n0800
 #+PROPERTY: ID KR6i0506
